@@ -3,4 +3,6 @@
 
 # Visual_impact_with_wordcloud
 
-Visual impact and storytelling are the masterpiece of data comunication. 
+Visual impact and storytelling are the masterpiece of data comunication, not depending of what area. Creating wordclouds is an impressive way of showing data distribution, just requiring a text representation of the context.
+
+
