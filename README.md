@@ -5,4 +5,4 @@
 
 Visual impact and storytelling are the masterpiece of data comunication, not depending of what area. Creating wordclouds is an impressive way of showing data distribution, just requiring a text representation of the context.
 
-
+<img src="https://raw.githubusercontent.com/RodrigoMarquesP/Visual_impact_with_wordcloud/master/files/python_logo_wordcloud.png" width=1000>
